@@ -1,0 +1,23 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "Automated software testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monatheoctocat/my_package.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "NRotondaro",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  }
+}
