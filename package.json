@@ -1,7 +1,7 @@
 {
-  "name": "cypress-testing-project",
+  "name": "cypress-actions",
   "version": "1.0.0",
-  "description": "Automated software testing with Cypress",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NRotondaro/cypress"
+    "url": "https://github.com/NRotondaro/cypress-actions"
   },
   "keywords": [
     "testing",
@@ -19,8 +19,9 @@
   "author": "NRotondaro",
   "license": "ISC",
   "dependencies": {
-    "cypress": "9.7.0",
-    "cypress-xpath": "^2.0.1",
-    "prettier": "^2.7.1"
+    "cypress": "^9.5.1",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
   }
 }
