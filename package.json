@@ -14,7 +14,7 @@
 	"author": "NRotondaro",
 	"license": "ISC",
 	"dependencies": {
-		"cypress": "9.7.0",
+		"cypress": "^14.2.0",
 		"prettier": "^2.7.1"
 	}
 }
